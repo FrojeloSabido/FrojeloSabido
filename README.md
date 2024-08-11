@@ -1,7 +1,8 @@
-#  Welcome to FrojeloSabido Profile👋
+#  Welcome to My Profile 👋
 #
-- 👀 I’m interested in WEB DEVELOPMENT AND SOFTWARE DEVELOPMENT
-- 🌱 I’m currently learning JAVA, PYHTON, HTML, CSS, JAVASCRIPT, PHP, SQL
+- Im Frojelo Sabido 
+- I’m interested in WEB DEVELOPMENT AND SOFTWARE DEVELOPMENT
+- I’m currently learning JAVA, PYHTON, HTML, CSS, JAVASCRIPT, PHP, SQL
 
 <!---
 FrojeloSabido/FrojeloSabido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
